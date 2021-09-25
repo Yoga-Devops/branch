@@ -1,2 +1,7 @@
+
 hello 
 adding text to test the merge confilts
+
+adding data in brnach 1 in f3 file in d1 directory[D[D[D[D[D[D[D[D[D[D[[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- f3 - d1[D[D[D[D[D file - d1 directory
+
+
